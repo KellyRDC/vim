@@ -1,0 +1,5 @@
+env/
+plugged/
+nvim/
+.netrwhist
+init.kelly.vim
